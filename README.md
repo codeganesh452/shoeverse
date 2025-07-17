@@ -13,7 +13,7 @@ This project was created as part of my frontend developer portfolio to demonstra
 Feel free to explore the live version and fork it for learning purposes.
 
 ## 🚀 Live Demo
-[Add your GitHub Pages or Netlify link here]
+[https://codeganesh452.github.io/shoeverse/]
 
 ## 📁 Features
 - Mobile-first responsive layout
